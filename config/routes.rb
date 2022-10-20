@@ -14,8 +14,9 @@ resources :user do
   resources :articles do
     get :paragraphs
   end
+  
 end
-    
+
 # resources :user do
 #   get :check_user
 #   get :list_users
