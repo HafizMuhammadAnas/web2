@@ -15,7 +15,7 @@ resources :user do
     get :paragraphs
   end
 end
-
+    
 # resources :user do
 #   get :check_user
 #   get :list_users
